@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ojiamboloc\\Desktop\\DotnetRestAPI\\OjiamboBreakfast\\OjiamboBreakfast\\OjiamboBreakfast.csproj": {}
+    "c:\\Users\\ojiamboloc\\Desktop\\DotnetRestAPI\\OjiamboBreakfast\\OjiamboBreakfast\\OjiamboBreakfast.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ojiamboloc\\Desktop\\DotnetRestAPI\\OjiamboBreakfast\\OjiamboBreakfast\\OjiamboBreakfast.csproj": {
+    "c:\\Users\\ojiamboloc\\Desktop\\DotnetRestAPI\\OjiamboBreakfast\\OjiamboBreakfast\\OjiamboBreakfast.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ojiamboloc\\Desktop\\DotnetRestAPI\\OjiamboBreakfast\\OjiamboBreakfast\\OjiamboBreakfast.csproj",
+        "projectUniqueName": "c:\\Users\\ojiamboloc\\Desktop\\DotnetRestAPI\\OjiamboBreakfast\\OjiamboBreakfast\\OjiamboBreakfast.csproj",
         "projectName": "OjiamboBreakfast",
-        "projectPath": "C:\\Users\\ojiamboloc\\Desktop\\DotnetRestAPI\\OjiamboBreakfast\\OjiamboBreakfast\\OjiamboBreakfast.csproj",
+        "projectPath": "c:\\Users\\ojiamboloc\\Desktop\\DotnetRestAPI\\OjiamboBreakfast\\OjiamboBreakfast\\OjiamboBreakfast.csproj",
         "packagesPath": "C:\\Users\\ojiamboloc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ojiamboloc\\Desktop\\DotnetRestAPI\\OjiamboBreakfast\\OjiamboBreakfast\\obj\\",
+        "outputPath": "c:\\Users\\ojiamboloc\\Desktop\\DotnetRestAPI\\OjiamboBreakfast\\OjiamboBreakfast\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ojiamboloc\\AppData\\Roaming\\NuGet\\NuGet.Config",
